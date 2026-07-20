@@ -10,10 +10,10 @@
     **1.** Created a [customer performance report](https://github.com/Sukhmani252/Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf) 
 
     **2.** Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/Sukhmani252/Sales-Analytics/blob/main/market_performance_vs_target.pdf)
-
+  
 ### **Finance Report:**
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]_(https://github.com/Sukhmani252/Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Year.pdf) & _[Months](https://github.com/Sukhmani252/Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Months.pdf)_ 
+- Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Sukhmani252/Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Sukhmani252/Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Months.pdf)_
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Sukhmani252/Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Markets.pdf)_
 
