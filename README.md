@@ -1,7 +1,7 @@
 ## Project objective:
 
 
-- **Sales Report:** 
+### **Sales Report:** 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
@@ -11,7 +11,7 @@
 
     **2.** Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/Sukhmani252/Sales-Analytics/blob/main/market_performance_vs_target.pdf)
 
- - **Finance Report:**
+### **Finance Report:**
 
 
 
