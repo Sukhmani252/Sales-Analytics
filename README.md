@@ -5,16 +5,11 @@
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
     **1.** Created a [customer performance report](https://github.com/Sukhmani252/Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf) 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Sukhmani252/Sales-Analytics/blob/main/market_performance_vs_target.pdf)
-
-
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
-
-
-
+    **2.** Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/Sukhmani252/Sales-Analytics/blob/main/market_performance_vs_target.pdf)
 
 ## Finance Report :
 
